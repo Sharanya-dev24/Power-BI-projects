@@ -67,8 +67,10 @@ This project explores and summarizes retail sales data spanning **2003 to 2005**
 - *(visuals description  — visuals used, layout, key pages, etc.)*
 
 ## Dashboard Screenshots
-Overall dashboard: 
-Dashboard view filtered on 2003 (2003, 2004 and 2005 screenshots are attached in file section)
+Overall dashboard: ![Overview](https://github.com/Sharanya-dev24/Power-BI-projects/blob/main/Sales%20Descriptive%20dashboard%20overall.png) |
+
+Dashboard view filtered on 2003 (2003, 2004 and 2005 screenshots are attached in file section): ![Drill-through-2003](https://github.com/Sharanya-dev24/Power-BI-projects/blob/main/Sales%20Descriptive%20dashboard%202003%20filtered.png) |
+
 
 ## ✨ Features & Highlights
 
